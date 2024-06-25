@@ -1,15 +1,22 @@
 =====================
 
-Colors  :
+Text  :
 
-https://getbootstrap.com/docs/5.3/utilities/colors/
+https://getbootstrap.com/docs/5.3/utilities/text/
 
 
 ========================
 
 
-color
-gradient 
-Opacity
+Text alignment
+Text wrapping and overflow
+Word break
+Text transform
+Font size
+Font weight and italics
+Line height
+Monospace
+Reset color
+Text decoration
 
 ==================
