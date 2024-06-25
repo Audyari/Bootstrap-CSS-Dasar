@@ -1,17 +1,21 @@
-==========================
+=====================
 
-Bootstrap adalah sebuah kerangka kerja (framework) open-source untuk pengembangan antarmuka pengguna 
-(user interface) website dan aplikasi web. Pertama kali dikembangkan oleh Twitter pada tahun 2011, Bootstrap 
-menjadi salah satu framework CSS yang paling populer dan banyak digunakan saat ini.
+Dokumentasi Resmi :
 
-Beberapa fitur utama Bootstrap:
-
-1. Responsif: Bootstrap dirancang untuk dapat beradaptasi dengan berbagai ukuran layar perangkat, mulai dari desktop, tablet, hingga mobile. Ini memudahkan pengembangan website yang dapat diakses dengan baik di berbagai perangkat.
-2. Grid System: Bootstrap menggunakan sistem grid 12 kolom yang memudahkan pengaturan tata letak elemen-elemen pada halaman web.
-3. Komponen Siap Pakai: Bootstrap menyediakan banyak komponen antarmuka pengguna yang siap digunakan, seperti tombol, form, navigasi, dan lainnya.
-4. Tema dan Ekstensi: Terdapat banyak tema dan ekstensi yang dapat digunakan untuk mempercantik tampilan website atau aplikasi yang dibangun menggunakan Bootstrap.
-5. Dukungan Cross-Browser: Bootstrap memastikan kompatibilitas antar berbagai browser web modern.
+https://getbootstrap.com/
 
 
-===================================
+========================
 
+
+Beberapa hal penting yang dapat Anda temukan di dokumentasi resmi Bootstrap:
+
+1. Getting Started: Bagian ini berisi panduan untuk memulai menggunakan Bootstrap, termasuk cara mengunduh dan mengintegrasikannya ke dalam proyek.
+2. Layout: Dokumentasi ini menjelaskan tentang sistem grid 12 kolom yang digunakan Bootstrap, serta cara mengatur tata letak halaman.
+3. Components: Bagian ini menyediakan dokumentasi lengkap mengenai berbagai komponen UI yang tersedia, seperti tombol, navbar, modal, carousel, dan lainnya.
+4. Utilities: Bootstrap menyediakan berbagai utilitas CSS siap pakai, seperti untuk mengatur margin, padding, warna, dan lainnya. Dokumentasi ini menjelaskan penggunaannya.
+5. JavaScript: Dokumentasi ini mencakup penggunaan plugin-plugin JavaScript yang disediakan oleh Bootstrap, seperti dropdown, tooltip, dan modal.
+6. Themes: Bagian ini membahas tentang cara menggunakan tema Bootstrap, baik tema bawaan maupun tema pihak ketiga.
+7. Extend: Dokumentasi ini memberikan informasi tentang cara memperluas fungsionalitas Bootstrap dengan membuat komponen dan utilitas kustom.
+
+========================================================
