@@ -1,18 +1,13 @@
 =====================
 
-Breakpoint  :
+Background  :
 
 https://getbootstrap.com/docs/5.3/layout/breakpoints/
 
-Breakpoint default Bootstrap:
-
-xs (extra small): Untuk perangkat dengan layar sangat kecil, seperti ponsel.
-sm (small): Untuk perangkat dengan layar kecil, seperti tablet.
-md (medium): Untuk perangkat dengan layar sedang, seperti desktop.
-lg (large): Untuk perangkat dengan layar besar, seperti desktop besar.
-xl (extra large): Untuk perangkat dengan layar sangat besar, seperti TV.
-xxl (extra extra large): Untuk perangkat dengan layar ekstra besar.
 
 ========================
 
 
+Background color
+Background gradient 
+Opacity

@@ -1,40 +1,56 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Bootstrap demo</title>
     <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css" />
 </head>
 
 <body>
-    <div>
-        <div class="row">
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <P>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dicta nemo eius, possimus
-                    architecto quas quo similique adipisci ducimus nostrum repellendus. Deserunt quibusdam, est quae
-                    consectetur dolorum eum accusamus aliquam!</P>
-            </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <P>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dicta nemo eius, possimus
-                    architecto quas quo similique adipisci ducimus nostrum repellendus. Deserunt quibusdam, est quae
-                    consectetur dolorum eum accusamus aliquam!</P>
-            </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <P>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dicta nemo eius, possimus
-                    architecto quas quo similique adipisci ducimus nostrum repellendus. Deserunt quibusdam, est quae
-                    consectetur dolorum eum accusamus aliquam!</P>
-            </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <P>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dicta nemo eius, possimus
-                    architecto quas quo similique adipisci ducimus nostrum repellendus. Deserunt quibusdam, est quae
-                    consectetur dolorum eum accusamus aliquam!</P>
-            </div>
+
+    <!-- Latar Belakang Berwarna: -->
+    <div class="bg-primary p-5 text-white">
+        <h1>Selamat Datang</h1>
+        <p>Ini adalah contoh div dengan latar belakang berwarna primary dan teks berwarna putih.</p>
+    </div>
+
+    <!-- Latar Belakang Gambar: -->
+    <div class="jumbotron jumbotron-fluid" style="background-image: url('path/to/image.jpg');">
+        <div class="container text-white">
+            <h1>Selamat Datang</h1>
+            <p>Ini adalah contoh jumbotron dengan latar belakang gambar.</p>
         </div>
     </div>
-    <button class="btn btn-primary d-block d-sm-none">Tombol Tampil di Mobile</button>
-    <button class="btn btn-secondary d-none d-sm-block">Tombol Tampil di Desktop</button>
+
+    <!-- Latar Belakang Gradien: -->
+    <div class=" bg-primary bg-gradient">
+        <h1>Selamat Datang</h1>
+        <p>Ini adalah contoh div dengan latar belakang gradien dari warna primary ke secondary.</p>
+    </div>
+
+    <!-- Latar Belakang Transparan: -->
+    <div class="bg-primary bg-opacity-75 p-5 text-white">
+        <h1>Selamat Datang</h1>
+        <p>Ini adalah contoh div dengan latar belakang primary yang memiliki 75% transparansi.</p>
+    </div>
+
+    <!-- Latar Belakang Responsif: -->
+    <div class="bg-primary d-none d-md-block p-5 text-white">
+        <h1>Selamat Datang</h1>
+        <p>Ini adalah contoh div dengan latar belakang primary yang hanya ditampilkan pada ukuran layar sedang (md) dan
+            lebih besar.</p>
+    </div>
+
+    <div class="bg-primary bg-gradient ">
+        <h1>Judul dengan Gradien</h1>
+        <p>Ini adalah contoh latar belakang dengan efek gradien horizontal dari warna primary ke secondary.</p>
+    </div>
+
+    <div class="bg-primary">
+        <h1>Judul Tanpa Gradien</h1>
+        <p>Ini adalah contoh latar belakang dengan warna solid primary (tanpa gradien).</p>
     </div>
 
 </body>
