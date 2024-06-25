@@ -1,0 +1,17 @@
+==========================
+
+Bootstrap adalah sebuah kerangka kerja (framework) open-source untuk pengembangan antarmuka pengguna 
+(user interface) website dan aplikasi web. Pertama kali dikembangkan oleh Twitter pada tahun 2011, Bootstrap 
+menjadi salah satu framework CSS yang paling populer dan banyak digunakan saat ini.
+
+Beberapa fitur utama Bootstrap:
+
+1. Responsif: Bootstrap dirancang untuk dapat beradaptasi dengan berbagai ukuran layar perangkat, mulai dari desktop, tablet, hingga mobile. Ini memudahkan pengembangan website yang dapat diakses dengan baik di berbagai perangkat.
+2. Grid System: Bootstrap menggunakan sistem grid 12 kolom yang memudahkan pengaturan tata letak elemen-elemen pada halaman web.
+3. Komponen Siap Pakai: Bootstrap menyediakan banyak komponen antarmuka pengguna yang siap digunakan, seperti tombol, form, navigasi, dan lainnya.
+4. Tema dan Ekstensi: Terdapat banyak tema dan ekstensi yang dapat digunakan untuk mempercantik tampilan website atau aplikasi yang dibangun menggunakan Bootstrap.
+5. Dukungan Cross-Browser: Bootstrap memastikan kompatibilitas antar berbagai browser web modern.
+
+
+===================================
+
