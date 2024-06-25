@@ -1,13 +1,15 @@
 =====================
 
-Background  :
+Colors  :
 
-https://getbootstrap.com/docs/5.3/layout/breakpoints/
+https://getbootstrap.com/docs/5.3/utilities/colors/
 
 
 ========================
 
 
-Background color
-Background gradient 
+color
+gradient 
 Opacity
+
+==================
