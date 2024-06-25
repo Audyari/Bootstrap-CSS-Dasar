@@ -1,74 +1,10 @@
 =====================
 
-Menginstall Bootstrap :
+Membuat Project :
 
-https://getbootstrap.com/docs/5.3/getting-started/download/
+
 
 
 ========================
 
 
-Beberapa hal penting yang dapat Anda temukan di dokumentasi resmi Bootstrap:
-
-1. Getting Started: Bagian ini berisi panduan untuk memulai menggunakan Bootstrap, termasuk cara mengunduh dan mengintegrasikannya ke dalam proyek.
-2. Layout: Dokumentasi ini menjelaskan tentang sistem grid 12 kolom yang digunakan Bootstrap, serta cara mengatur tata letak halaman.
-3. Components: Bagian ini menyediakan dokumentasi lengkap mengenai berbagai komponen UI yang tersedia, seperti tombol, navbar, modal, carousel, dan lainnya.
-4. Utilities: Bootstrap menyediakan berbagai utilitas CSS siap pakai, seperti untuk mengatur margin, padding, warna, dan lainnya. Dokumentasi ini menjelaskan penggunaannya.
-5. JavaScript: Dokumentasi ini mencakup penggunaan plugin-plugin JavaScript yang disediakan oleh Bootstrap, seperti dropdown, tooltip, dan modal.
-6. Themes: Bagian ini membahas tentang cara menggunakan tema Bootstrap, baik tema bawaan maupun tema pihak ketiga.
-7. Extend: Dokumentasi ini memberikan informasi tentang cara memperluas fungsionalitas Bootstrap dengan membuat komponen dan utilitas kustom.
-
-========================================================
-
-Compiled Bootstrap 
-Once downloaded, unzip the compressed folder and you’ll see something like this:
-
-bootstrap/
-├── css/
-│   ├── bootstrap-grid.css
-│   ├── bootstrap-grid.css.map
-│   ├── bootstrap-grid.min.css
-│   ├── bootstrap-grid.min.css.map
-│   ├── bootstrap-grid.rtl.css
-│   ├── bootstrap-grid.rtl.css.map
-│   ├── bootstrap-grid.rtl.min.css
-│   ├── bootstrap-grid.rtl.min.css.map
-│   ├── bootstrap-reboot.css
-│   ├── bootstrap-reboot.css.map
-│   ├── bootstrap-reboot.min.css
-│   ├── bootstrap-reboot.min.css.map
-│   ├── bootstrap-reboot.rtl.css
-│   ├── bootstrap-reboot.rtl.css.map
-│   ├── bootstrap-reboot.rtl.min.css
-│   ├── bootstrap-reboot.rtl.min.css.map
-│   ├── bootstrap-utilities.css
-│   ├── bootstrap-utilities.css.map
-│   ├── bootstrap-utilities.min.css
-│   ├── bootstrap-utilities.min.css.map
-│   ├── bootstrap-utilities.rtl.css
-│   ├── bootstrap-utilities.rtl.css.map
-│   ├── bootstrap-utilities.rtl.min.css
-│   ├── bootstrap-utilities.rtl.min.css.map
-│   ├── bootstrap.css
-│   ├── bootstrap.css.map
-│   ├── bootstrap.min.css
-│   ├── bootstrap.min.css.map
-│   ├── bootstrap.rtl.css
-│   ├── bootstrap.rtl.css.map
-│   ├── bootstrap.rtl.min.css
-│   └── bootstrap.rtl.min.css.map
-└── js/
-    ├── bootstrap.bundle.js
-    ├── bootstrap.bundle.js.map
-    ├── bootstrap.bundle.min.js
-    ├── bootstrap.bundle.min.js.map
-    ├── bootstrap.esm.js
-    ├── bootstrap.esm.js.map
-    ├── bootstrap.esm.min.js
-    ├── bootstrap.esm.min.js.map
-    ├── bootstrap.js
-    ├── bootstrap.js.map
-    ├── bootstrap.min.js
-    └── bootstrap.min.js.map
-
-    ===============================================
