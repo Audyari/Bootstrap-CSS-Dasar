@@ -1,16 +1,12 @@
 =====================
 
-Reboot dalam Bootstrap  :
+Bootstrap Typography  :
 
-https://getbootstrap.com/docs/5.3/content/reboot/
+https://getbootstrap.com/docs/5.3/content/typography/
 
 
-Tujuan utama modul Reboot dalam Bootstrap adalah:
-
-1. Menormalkan gaya default browser - Reboot menghapus perbedaan kecil dalam penampilan antar browser, sehingga elemen HTML akan terlihat konsisten.
-2. Menyederhanakan gaya elemen - Reboot menyediakan gaya dasar yang sederhana untuk elemen-elemen umum seperti heading, paragraf, tombol, dll.
-3. Mendefinisikan ulang perilaku default - Reboot menetapkan kembali perilaku default dari beberapa elemen HTML, seperti menghapus margin pada heading atau mengubah perilaku <button>.
-
+Bootstrap menyediakan seperangkat aturan dan kelas CSS untuk mengatur tampilan teks dan
+tipografi pada website atau aplikasi Anda.
 ========================
 
 
